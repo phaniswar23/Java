@@ -7,7 +7,7 @@ public class user {
         int a = sc.nextInt();
         System.out.println("Enter your number 2:");
         int b = sc.nextInt();
-        sc.close();
+        
         
     }
 }
